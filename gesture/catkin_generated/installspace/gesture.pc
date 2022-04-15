@@ -1,0 +1,8 @@
+prefix=/home/jetson/catkin_ws/install
+
+Name: gesture
+Description: Description of gesture
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
